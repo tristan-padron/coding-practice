@@ -1,0 +1,35 @@
+button.language {
+  font-size: 24px;
+  background-color: lightgray;
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  border: none;
+}
+
+/* Notes! */
+/* Limiting height and width- Careful with how you do this, the content could end up looking messy if not done correctly. */
+
+/* Border- between edge of box from another.
+Margin- sits outside the edge of border.
+Padding- space between border and content inside.
+
+/* Border-width- thickness of box that will show up over content.
+Can be: thin, medium, thick. Can control border top, right, left, bottom.
+
+/* Border-style- style of border.
+ex: solid, dotted, dashed, double, etc.
+can also adjust top, bottom, l & r.
+
+/* Border-color- color of border.
+works like color generally would affect content.
+Can also to top, bottom, left and right.
+
+/* Border (shorthand)- Specify width, style and color. Ex: border: 3px dotted #0088dd
+
+/* Display- turn an element into an inline or block element.
+Can do: inline, block, inline-block (idk how to exp), none. /*
